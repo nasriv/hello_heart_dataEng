@@ -2,5 +2,6 @@
 .venv/
 
 ## Airflow
-plugins/
-logs/
+plugins/*
+logs/*
+dags/__pycache__
